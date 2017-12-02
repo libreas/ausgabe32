@@ -37,7 +37,10 @@ final
 \usepackage[normalem]{ulem} %emphasize weiterhin kursiv
 \usepackage[flushmargin,ragged]{footmisc} % left align footnote
 \usepackage{ccicons} 
-\usepackage{hyperxmp}
+
+%%%% fancy LIBREAS URL color 
+\usepackage{xcolor}
+\definecolor{libreas}{RGB}{112,0,0}
 
 \usepackage{listings}
 
@@ -65,19 +68,23 @@ $endif$
 \pagestyle{fancyplain}
 \fancyhead[R]{\thepage}
 
+% make sure bookmarks are created eventough sections are not numbered!
+% uncommend if sections are numbered (bookmarks created by default)
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+
+\usepackage{hyperxmp}
+\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=libreas,
+breaklinks= true,bookmarks=true,bookmarksopen=true]{hyperref}
+
 %meta
 $for(header-includes)$
 $header-includes$
 $endfor$
 
-\usepackage[colorlinks, linkcolor=black,citecolor=black, urlcolor=blue,
-breaklinks= true,]{hyperref}
 
-\hypersetup{%
-      pdfcopyright={CC BY 4.0},
-      pdflicenseurl={https://creativecommons.org/licenses/by/4.0/},
-      baseurl={http://libreas.eu/}
-     }
 
 \date{}
 \begin{document}
