@@ -30,7 +30,7 @@ Vervielfältigung von Inhalten berücksichtigt:
 
 "Open means anyone can freely access, use, modify, and share for any
 purpose (subject, at most, to requirements that preserve provenance and
-openness).”[^12]
+openness)."[^12]
 
 Naturgemäß gehen unterschiedliche Wissenskulturen mit der gesellschafts-
 und wissenschaftspolitischen Forderung nach weitreichender Offenheit und
@@ -1121,7 +1121,7 @@ ExpertInnenaussagen über Open Publication
     \[Interview 12\]
 
 46. "*Meine eigene Digitale Edition (Open Access) wurde bereits zitiert,
-    obwohl es auch eine Printversion gibt. Es funktioniert wirklich!*”
+    obwohl es auch eine Printversion gibt. Es funktioniert wirklich!*"
     \[Interview 07\]
 
 47. "*Die führende Fachzeitschrift in den Digital Humanities, LLC –
@@ -1614,7 +1614,7 @@ ExpertInnenaussagen über Open Review
     Prozess gewährleistet sein im Sinne des Open Peer Reviews. Damit es
     funktioniert, sollte immer alles online stattfinden und sichtbar
     sein, sowohl die Dokumente als auch die Namen der Gutachter sowie
-    die Gutachten selbst*.” \[Interview 34\]
+    die Gutachten selbst*." \[Interview 34\]
 
 2.  "*Offene Peer-Review-Verfahren oder offene Wissenskommunikationen in
     wissenschaftlichen Prozessen könnten es ja auch ermöglichen, noch
