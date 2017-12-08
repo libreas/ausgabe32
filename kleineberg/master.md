@@ -28,9 +28,9 @@ Knowledge Foundation*[^11] vorgeschlagene "Open Definition" an, die
 sowohl den Zugang als auch die Nutzung, Weiterverarbeitung und
 Vervielfältigung von Inhalten berücksichtigt:
 
-"Open means anyone can freely access, use, modify, and share for any
-purpose (subject, at most, to requirements that preserve provenance and
-openness)."[^12]
+> "Open means anyone can freely access, use, modify, and share for any
+> purpose (subject, at most, to requirements that preserve provenance and
+> openness)."[^12]
 
 Naturgemäß gehen unterschiedliche Wissenskulturen mit der gesellschafts-
 und wissenschaftspolitischen Forderung nach weitreichender Offenheit und
