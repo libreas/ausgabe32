@@ -489,7 +489,7 @@ finanzierten Forschungstätigkeit entstehen, lässt sich schon seit langem
 manche Wissenschaftseinrichtung Nutzungen beziehungsweise Rechte im
 Arbeits- beziehungsweise Dienstrecht einräumen. Nicht weiter beleuchtet
 wurde bislang, inwiefern dies -- mit ähnlicher rechtlicher Argumentation
-wie nun in Konstanz -- die Wissenschaftsfreit nach Art. 5 Abs. 3
+wie nun in Konstanz -- die Wissenschaftsfreiheit nach Art. 5 Abs. 3
 Grundgesetz berühren könnte.
 
 [^1]: *Hartmann* (2017), Open Access rechtlich absichern -- warum es ein
