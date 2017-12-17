@@ -360,7 +360,7 @@ Bibliotheken vorbereitet hatten, berieten, sondern Einfluss auf
 weiterreichende Bereiche nahmen (bei Stadler "konzeptionelle Bereiche"
 genannt, Stadler 2011c:199). Zudem betrieb sie 2012 bis 2013 ein Weblog
 zum Thema (Partizipation – Bibliothek,
-[*https://bibpartizipation.wordpress.com/*](https://bibpartizipation.wordpress.com/)),
+[https://bibpartizipation.wordpress.com/](https://bibpartizipation.wordpress.com/)),
 der sich zu einer Informationsplattform hätte entwickeln können, aber
 kaum zur Diskussion genutzt wurde.
 
@@ -624,8 +624,7 @@ Ebenen unterteilt sind:
 
 3.  Ebene Grade der Macht der Bürgerinnen und Bürger: Partnerschaft, delegierte Macht, Kontrolle durch Bürgerinnen und Bürger
 
-![Leiter der Partizipation (eigene Darstellung nach Arnstein
-1969:217)](img/Ladder-of-Citizen-Participation.jpg)
+![Leiter der Partizipation (eigene Darstellung nach Arnstein 1969:217)](img/Ladder-of-Citizen-Participation.jpg)
 
 
 
@@ -651,8 +650,7 @@ von Toronto (vergleiche 2.5.1) deutet aber auch darauf hin, dass es
 denkbar ist, über diese Formen der "einfachen Partizipation"
 hinauszugehen.
 
-![Leiter der Partizipation, mit Einträgen von in diesem Text
-angesprochenen Beispielen aus Bibliotheken (eigene Darstellung)](img/Ladder-of-Citizen-Participation-mitEintraegen.jpg)
+![Leiter der Partizipation, mit Einträgen von in diesem Text angesprochenen Beispielen aus Bibliotheken (eigene Darstellung)](img/Ladder-of-Citizen-Participation-mitEintraegen.jpg)
 
 2.4 Exkurs: Habermas
 --------------------
@@ -803,7 +801,7 @@ auf neue, zentrale Filialen zu legen und dafür auch Filialen aufzugeben.
 Ein erster Schritt sollte die Konzentration von möglichst vielen Medien
 für die Öffentlichkeit in einer neu zu bauenden Reference Library (die
 heute das zentrale Gebäude darstellt,
-[*http://www.torontopubliclibrary.ca/detail.jsp?R=LIB018*](http://www.torontopubliclibrary.ca/detail.jsp?R=LIB018))
+[http://www.torontopubliclibrary.ca/detail.jsp?R=LIB018](http://www.torontopubliclibrary.ca/detail.jsp?R=LIB018))
 sein, einhergehend mit der Schliessung mehrerer kleinerer Filialen.
 Diese Zentralisierung galt als modern und den (damals, aber eigentlich
 auch heute) bibliothekarischen Anforderungen entsprechend. Die vielen
@@ -1200,9 +1198,61 @@ sich daraus für Bibliotheken ergeben sowie der Verantwortung, die
 Bibliotheken in diesem Idealbild tragen, extrahieren. Diese sind in
 folgender Tabelle abgetragen.
 
-[comment]: <> (hier kommt die Tabelle hin!)
 
-**Table: Ideale von Demokratie/Freiheit und Ableitungen für das Partizipationsverständnis von Bibliotheken.**
+--------------------------------------------------------------
+X__1                           Liberale Demokratie (Freiheit  
+                               von…)                          
+------------------------------ -------------------------------
+Partizipationsverständnis      Partizipation: Mitmachen,      
+                               Dabeisein, Beraten             
+
+Aufgabe Partizipation in       Aufgabe: strukturell           
+Bibliotheken                   “Mitmachen” ermöglichen        
+                               → Informationen anbieten;      
+                               besorgen, wenn nachgefragt     
+
+Verantwortung der Bibliotheken Dass die eigene Bibliothek     
+                               besser funktioniert →          
+                               Gesellschaft: Barrieren        
+                               abbauen                        
+
+Bibliothekswesen, die zu       Bibliotheken Schweiz,          
+diesem Verständnis             Bibliotheken Deutschland,      
+(tendenziell) zu passen        Bibliotheken Frankreich        
+scheinen                       (praktisch)                    
+--------------------------------------------------------------
+
+Tabelle: Wird unten fortgesetzt
+
+ 
+------------------------------------------------------------
+Deliberative Demokratie       Soziale Demokratie (Freiheit  
+(Habermas)                    zu…)                          
+----------------------------- ------------------------------
+Partizipation: Mitberaten,    Partizipative Macht haben,    
+Entscheidungen diskursiv      Entscheidungen mit treffen    
+mitgestalten                                                
+
+Aufgabe: Öffentlichkeit       Aufgabe: strukturell öffnen,  
+herstellen / Informationen    Macht über die eigene         
+liefern / Nutzung anregen →   Entwicklung abgeben           
+Informationen: aktiv anbieten                               
+und wenn nachgefragt Podium                                 
+für Diskussion bilden                                       
+
+Dass die Gesellschaft         Dass die Gesellschaft besser  
+funktioniert → Gesellschaft:  wird (abgeleitete Funktion, so
+Möglichkeiten zur             nicht in bibliothekarischen   
+Einflussnahme in die          Texten zu finden)             
+Gesellschaft schaffen                                       
+
+Bibliotheken Norwegen,        Bibliotheken Toronto          
+Schulbibliotheken Schottland, (eventuell)                   
+Bibliotheken Frankreich                                     
+(theoretisch)                                               
+------------------------------------------------------------
+
+Tabelle: Ideale von Demokratie/Freiheit und Ableitungen für das Partizipationsverständnis von Bibliotheken.
 
 Diese Tabelle macht zumindest die tendenziellen Unterschiede zwischen
 den Bibliothekssystemen, die in diesem Text sichtbar wurden,
@@ -1343,310 +1393,307 @@ Literatur
 =========
 
 Arnstein, Sherry R. (1969). A ladder of citizen participation. In:
-*Journal of the American Institute of Planners* 35 (1969) 4, 216-224,
-doi:
-[*https://doi.org/10.1080/01944366908977225*](http://dx.doi.org/10.1080/01944366908977225)
+*Journal of the American Institute of Planners* 35 (1969) 4, 216-224.
+[https://doi.org/10.1080/01944366908977225](http://dx.doi.org/10.1080/01944366908977225)
 
 Bats, Raphaëlle (2016). La participation en bibliothèque : légitimité,
-formes et enjeux. In: *Bibliotheque(s)* (2016) 83, 10-15
+formes et enjeux. In: *Bibliotheque(s)* (2016) 83, 10-15.
 
 Bats, Raphaëlle (dir.) (2015). *Construire des pratiques participatives
-dans les bibliothèques*. Villeurbanne : Presses de l'ENSSIB, 2015
+dans les bibliothèques*. Villeurbanne : Presses de l'ENSSIB, 2015.
 
 Becker, Helle (2015). Partizipation und Kulturelle Bildung in
-Jugendarbeit und Schule. In: *Kulturelle Bildung online*. [*https://www.kubi-online.de/artikel/partizipation-kulturelle-bildung-jugendarbeit-schule*](https://www.kubi-online.de/artikel/partizipation-kulturelle-bildung-jugendarbeit-schule)
+Jugendarbeit und Schule. In: *Kulturelle Bildung online*. [https://www.kubi-online.de/artikel/partizipation-kulturelle-bildung-jugendarbeit-schule](https://www.kubi-online.de/artikel/partizipation-kulturelle-bildung-jugendarbeit-schule)
 \[08.10.2017\]
 
 Bildungsdirektion Kanton Zürich, Amt für Jugend- und Berufsberatung,
 Volksschulamt (o.J.). Bischu: Handbuch für die Zusammenarbeit von
 Bibliothek und Schule.
-[*http://www.bischu.zh.ch/*](http://www.bischu.zh.ch/) \[25.08.2016\]
+[http://www.bischu.zh.ch/](http://www.bischu.zh.ch/) \[25.08.2016\]
 
 Bergmann, Julia ; Flicker, Anja (2016). Ein Ort für Kreativität,
 Mitgestaltung, Inspiration: Würzburg plant mithilfe der Methode »Design
 Thinking« eine neue Stadtteilbibliothek. In: *BuB* 68 (2016) 8-9,
-478-481
+478-481.
 
 Berlin, Isaiah (1969). *Four essays on liberty*. (Oxford paperbacks;
-116). London: Oxford University Press, 1969
+116). London: Oxford University Press, 1969.
 
 Bergmann, Julia ; Danowski, Patrick (Hrsg.) (2010). *Handbuch Bibliothek
-2.0*. (Bibliothekspraxis; 41). Berlin: De Gruyter Saur, 2010
+2.0*. (Bibliothekspraxis; 41). Berlin: De Gruyter Saur, 2010.
 
 Bernier, Anthony; Males, Mike; Rickman, Collin (2014). "It is Silly to
 Hide Your Most Active Patrons": Exploring User Participation of Library
 Space Designs for Young Adults in the United States. In: *Library
-Quarterly: Information, Community, Policy* 84 (2014) 2, 165-182, doi:
-[*https://doi.org/10.1086/675330*](https://doi.org/10.1086/675330)
+Quarterly: Information, Community, Policy* 84 (2014) 2, 165-182.
+[https://doi.org/10.1086/675330](https://doi.org/10.1086/675330)
 
 Betz, Tanja ; Gaiser, Wolfgang ; Pluto, Liane (Hrsg.) (2010).
 *Partizipation von Kindern und Jugendlichen : Forschungsergebnisse,
 Bewertungen, Handlungsmöglichkeiten*. (DJI Studien kompakt). Schwalbach
-am Taunus: Wochenschau Verlag, 2010
+am Taunus: Wochenschau Verlag, 2010.
 
 Biedermann, Horst (2006): Junge Menschen an der Schwelle politischer
 Mündigkeit. Partizipation: Patentrezept politischer Identitätsfindung?
 Münster, New York, München, Berlin: Waxmann Verlag.
 
 Bishop, Claire (2012). *Artificial Hells: Participatory Art and the
-Politics of Spectatorship*. London: Verso, 2012
+Politics of Spectatorship*. London: Verso, 2012.
 
 Browndorf, Margaret (2014). Student Library Ownership and Building the
 Communicative Commons. In: *Journal of Library Administration* 54 (2014)
-2, 77-93, doi:
-[*https://doi.org/10.1080/01930826.2014.903364*](https://doi.org/10.1080/01930826.2014.903364)
+2, 77-93.
+[https://doi.org/10.1080/01930826.2014.903364](https://doi.org/10.1080/01930826.2014.903364)
 
 Carpentier, Nico (2016). Beyond the Ladder of Participation: An
 Analytical Toolkit for the Critical Analysis of Participatory Media
-Processes. In: *Javnost - The Public* 23 (2016) 1, 70-88, doi:
-[*https://doi.org/10.1080/13183222.2016.1149760*](https://doi.org/10.1080/13183222.2016.1149760)
+Processes. In: *Javnost - The Public* 23 (2016) 1, 70-88.
+[https://doi.org/10.1080/13183222.2016.1149760](https://doi.org/10.1080/13183222.2016.1149760)
 
 Désilets, Marie (2017). La participation citoyenne comme pilier de
 changement social en bibliothèque publique. In: *Documentation et
-bibliothèques*. 59 (2013) 1, 17-23, doi:
-[*https://doi.org/10.7202/1033117ar*](http://dx.doi.org/10.7202/1033117ar)
+bibliothèques*. 59 (2013) 1, 17-23.
+[https://doi.org/10.7202/1033117ar](http://dx.doi.org/10.7202/1033117ar)
 
 Dewosch, Nicola (2016). *Partizipation in Bibliotheken: Ein Blick auf
 Projekte im In- und Ausland* (Bachelorarbeit). Stuttgart: Hochschule der
 Medien Stuttgart, 2016,
-[*http://nbn-resolving.de/urn:nbn:de:bsz:900-opus4-58622*](http://nbn-resolving.de/urn:nbn:de:bsz:900-opus4-58622)
+[http://nbn-resolving.de/urn:nbn:de:bsz:900-opus4-58622](http://nbn-resolving.de/urn:nbn:de:bsz:900-opus4-58622).
 
 Eigenbrodt, Olaf (2016). Nach dem Funktionalismus: Neue Wege in der
 Planung und Gestaltung von Bibliotheken. In: *BuB* 68 (2016) 8-9,
-466-471
+466-471.
 
 Feichter, Helene (2015). *Schülerinnen und Schüler erforschen Schule:
-Möglichkeiten und Grenzen*. Wiesbaden: Springer VS, 2015
+Möglichkeiten und Grenzen*. Wiesbaden: Springer VS, 2015.
 
 Franzen, Nathalie (2017). Bürgerengagement in Zeiten des demographischen
 Wandels: Die Rolle von Büchereien und anderen sozialen
 Infrastruktureinrichtungen im Dorf. In: *Bibliotheksdienst* 51 (2017) 8,
-683-690, doi:
-[*https://doi.org/10.1515/bd-2017-0074*](https://doi.org/10.1515/bd-2017-0074)
+683-690.
+[https://doi.org/10.1515/bd-2017-0074](https://doi.org/10.1515/bd-2017-0074)
 
 Fried Foster, Nancy (2014) *Participatory Design in Academic Libraries:
 New Reports and Findings*. Washington D.C.: Council on Library and
-Information Resources, 2014,
-[*https://www.clir.org/pubs/reports/pub155/pub155.pdf*](https://www.clir.org/pubs/reports/pub155/pub155.pdf)
+Information Resources, 2014.
+[https://www.clir.org/pubs/reports/pub155/pub155.pdf](https://www.clir.org/pubs/reports/pub155/pub155.pdf)
 
 Georgy, Ursula (Hg.): *Crowdsourcing – Ein Leitfaden für Bibliotheken*.
 Wiesbaden: Dinges&Frick, 2015.
 
 Graf, Nicole: Offenes Crowdsourcing im Bildarchiv der ETH-Bibliothek.
-In: *Arbido*, (2016) 2,
-[*http://arbido.ch/de/ausgaben-artikel/2016/ausgelagert-eingekauft-fremdbeschafft/offenes-crowdsourcing-im-bildarchiv-der-eth-bibliothek*](http://arbido.ch/de/ausgaben-artikel/2016/ausgelagert-eingekauft-fremdbeschafft/offenes-crowdsourcing-im-bildarchiv-der-eth-bibliothek)
+In: *Arbido*, (2016) 2.
+[http://arbido.ch/de/ausgaben-artikel/2016/ausgelagert-eingekauft-fremdbeschafft/offenes-crowdsourcing-im-bildarchiv-der-eth-bibliothek](http://arbido.ch/de/ausgaben-artikel/2016/ausgelagert-eingekauft-fremdbeschafft/offenes-crowdsourcing-im-bildarchiv-der-eth-bibliothek)
 
 Grenacher, Raymond ; Lienhard, Claudia (2017). Design Thinking zur
 Entwicklung von Lernumgebungen: Das Projekt Team Working Spaces an der
-ETH-Bibliothek. In: *Bibliotheksdienst* 51 (2017) 9, 771-785, doi:
-[*https://doi.org/10.1515/bd-2017-0084*](https://doi.org/10.1515/bd-2017-0084)
+ETH-Bibliothek. In: *Bibliotheksdienst* 51 (2017) 9, 771-785.
+[https://doi.org/10.1515/bd-2017-0084](https://doi.org/10.1515/bd-2017-0084)
 
 Haas, Corinna ; Mumenthaler, Rudolf ; Schuldt, Karsten (2015). Ist die
 Bibliothek ein Dritter Ort? Ein Seminarbericht. In: *Informationspraxis*
-1 (2015) 2,
-[*https://journals.ub.uni-heidelberg.de/index.php/ip/article/view/23763/0*](https://journals.ub.uni-heidelberg.de/index.php/ip/article/view/23763/0)
+1 (2015) 2.
+[https://journals.ub.uni-heidelberg.de/index.php/ip/article/view/23763/0](https://journals.ub.uni-heidelberg.de/index.php/ip/article/view/23763/0)
 
 Habermas, Jürgen (2009a \[1996\]). *Drei normative Modelle der
 Demokratie.* In: ders. (2009). Studienausgabe: Band ; Politische
-Theorie. Frankfurt am Main: Suhrkamp, 2009, 70-86
+Theorie. Frankfurt am Main: Suhrkamp, 2009, 70-86.
 
 Habermas, Jürgen (2009b \[1990\]). *Was Theorien leisten können - und
 was nicht. Ein Interview.* In: ders. (2009). Studienausgabe: Band 5;
-Kritik der Vernunft. Frankfurt am Main: Suhrkamp, 2009, 81-99
+Kritik der Vernunft. Frankfurt am Main: Suhrkamp, 2009, 81-99.
 
 Habermas, Jürgen (2009c \[1999\]). *Noch einmal: Zum Verhältnis von
 Theorie und Praxis.* In: ders. (2009). Studienausgabe: Band 5; Kritik
-der Vernunft. Frankfurt am Main: Suhrkamp, 2009, 100-116
+der Vernunft. Frankfurt am Main: Suhrkamp, 2009, 100-116.
 
 Habermas, Jürgen (2004 \[1962\]). *Strukturwandel der Öffentlichkeit:
 Untersuchungen zu einer Kategorie der bürgerlichen Gesellschaft*.
 (Suhrkamp Taschenbuch Wissenschaft; 891). (9. Auflage). Frankfurt am
-Main: Suhrkamp, 2004
+Main: Suhrkamp, 2004.
 
 Habermas, Jürgen (1982). *Zur Kritik der funktionalistischen Vernunft*.
 (Theorie des kommunikativen Handelns, 2). Frankfurt am Main: Suhrkamp,
-1982
+1982.
 
 Habermas, Jürgen (1981). *Handlungsrationalität und gesellschaftliche
 Rationalisierung* (Theorie des kommunikativen Handelns; 1). Frankfurt am
-Main: Suhrkamp, 1981
+Main: Suhrkamp, 1981.
 
 Hattwig, Denise; Lam, Nia; Freidberg, Jill (2015). Student Participation
 in Scholarly Communication and Library Digital Collections: A Case Study
 from the University of Washington Bothell Library. In: *College &
-Undergraduate Libraries* 22 (2015) 2, 188-208, doi:
-[*https://doi.org/10.1080/10691316.2014.950781*](http://dx.doi.org/10.1080/10691316.2014.950781)
+Undergraduate Libraries* 22 (2015) 2, 188-208.
+[https://doi.org/10.1080/10691316.2014.950781](http://dx.doi.org/10.1080/10691316.2014.950781)
 
 Huybrechts, Liesbeth (Hrsg.) (2014). *Participation is Risky: Approaches
 to Joint Creative Processes*. (Antennae) London ; Berlin: Anagram Books,
-2014
+2014.
 
 Huvila, Isto (2015). The Unbearable Lightness of Participating?
 Revisiting the discourses of 'participation' in archival literature. In:
-*Journal of Documentation* 71 (2015) 2, 358-386
+*Journal of Documentation* 71 (2015) 2, 358-386.
 
 Huzar, Timothy Jozef (2013). The public library, democracy and
 Rancière's poetics of politics. In: *IR information research* 18 (2013)
-3,
-[*http://www.informationr.net/ir/18-3/colis/paperC15.html\#.WaBI6\_lJbmE*](http://www.informationr.net/ir/18-3/colis/paperC15.html#.WaBI6_lJbmE)
+3.
+[http://www.informationr.net/ir/18-3/colis/paperC15.html\#.WaBI6\_lJbmE](http://www.informationr.net/ir/18-3/colis/paperC15.html#.WaBI6_lJbmE)
 
 Ilg, Jens (2016). Mehr Spielräume: Methoden der partizipativen
 Lernraumgestaltung. In: *Bibliothek. Forschung und Praxis* 40 (2016) 3,
-347-360
+347-360.
 
 Jordan Bonin, Eva von (2013). *Deine Meinung zählt! Schülerzentrierter
 Bestandsaufbau in Frankfurter Schulbibliotheken*.
 (Konferenzveröffentlichung) Leipzig: 5. Kongress Bibliothek &
-Information, 2013,
-[*http://nbn-resolving.de/urn:nbn:de:0290-opus-13732*](http://nbn-resolving.de/urn:nbn:de:0290-opus-13732)
+Information, 2013.
+[http://nbn-resolving.de/urn:nbn:de:0290-opus-13732](http://nbn-resolving.de/urn:nbn:de:0290-opus-13732)
 
 Kaiser, Wolfgang (2014). Auf in die Zukunft! Was kommt nach der
 bücherlosen Bibliothek? Reflexionen und Wahrnehmungsunterschiede zur
 Rolle von öffentlichen Bibliotheken. In: *LIBREAS. Library Ideas* 24
-(2014), doi:
-[*https://doi.org/10.18452/9057*](http://dx.doi.org/10.18452/9057)
+(2014).
+[https://doi.org/10.18452/9057](http://dx.doi.org/10.18452/9057)
 
 Lankes, R. David ; Stephens, Michael ; Arjona, Melissa (2015).
 Participatory and Transformative Engagement in Libraries and Museums:
 Exploring and Expanding the Salzburg Curriculum. In: *Journal for
-Library and Information Science* 56 (2015) Supplement 1, S61-S68,
-[*http://dpi-journals.com/index.php/JELIS/article/view/1323*](http://dpi-journals.com/index.php/JELIS/article/view/1323)
+Library and Information Science* 56 (2015) Supplement 1, S61-S68.
+[http://dpi-journals.com/index.php/JELIS/article/view/1323](http://dpi-journals.com/index.php/JELIS/article/view/1323)
 
 Lankes, R. David (2012). *Expect more: demanding better libraries for
-today's complex world*. \[Ohne Ort\]: CreateSpace, 2012
+today's complex world*. \[Ohne Ort\]: CreateSpace, 2012.
 
 Lankes, R. David (2011). *The atlas of new librarianship*. Cambridge:
-MIT Press, 2011
+MIT Press, 2011.
 
 Loncle, Particia ; Cuconato, Morena ; Muniglia, Virginie ; Walther,
 Andreas (Hrsg..) (2012). *Youth participation in Europe: Beyond
-discourses, practices and realities*. Bristol: Policy Press, 2012
+discourses, practices and realities*. Bristol: Policy Press, 2012.
 
 Maas, Jan Frederik (2016). *beluga - ein konsortiales Discoverysystem
 auch für Bibliotheken außerhalb Hamburgs*. (Konferenzveröffentlichung).
-Leipzig: 6. Bibliothekskongress, 2016,
-[*http://nbn-resolving.de/urn:nbn:de:0290-opus4-23625*](http://nbn-resolving.de/urn:nbn:de:0290-opus4-23625)
+Leipzig: 6. Bibliothekskongress, 2016.
+[http://nbn-resolving.de/urn:nbn:de:0290-opus4-23625](http://nbn-resolving.de/urn:nbn:de:0290-opus4-23625)
 
 Madison, D. Soyini (2012). *Critical ethnography: method, ethics, and
-performance.* (2nd edition). Thousand Oaks: SAGE, 2012
+performance.* (2nd edition). Thousand Oaks: SAGE, 2012.
 
 Marshall, John (Hrsg.) (1984). *Citizen participation in library
 decision-making: the Toronto experience*. (Dalhousie University, School
-of Library Service; 1). Metuchen, N.J. : Scarecrow Press, 1984
+of Library Service; 1). Metuchen, N.J. : Scarecrow Press, 1984.
 
 Miessen, Markus (Hrsg) (2016). *Crossbenching: Toward Participation as
-Critical Spatial Practice*. Berlin: Sternberg Press, 2016
+Critical Spatial Practice*. Berlin: Sternberg Press, 2016.
 
 Nguyen, Linh Cuong ; Partridge, Helen ; Edwards, Sylvia L. (2012).
 Towards an understanding of the participatory library. In: *Library Hi
-Tech* 30 (2012) 2, 335-346, doi:
-[*https://doi.org/10.1108/07378831211239997*](https://doi.org/10.1108/07378831211239997)
+Tech* 30 (2012) 2, 335-346.
+[https://doi.org/10.1108/07378831211239997](https://doi.org/10.1108/07378831211239997)
 
 Oehler, Patrick ; Käser, Nadine ; Drilling, Matthias ; Guhl, Jutta ;
 Thomas, Nicola (Hrsg.) (2017). *Emanzipation, soziale Arbeit und
 Stadtentwicklung: Eine programmatische und methodische Herausforderung*.
-Opladen ; Berlin ; Toronto: Budrich UniPress, 2017
+Opladen ; Berlin ; Toronto: Budrich UniPress, 2017.
 
 Priestner, Andy ; Borg, Matt (Hrsg.) (2016). *User Experience in
 Libraries: Applying Ethnography and Human-Centred Design*. New York;
-London: Routlegde, 2016
+London: Routlegde, 2016.
 
 Rasmussen, Casper Hvenegaard (2016). The participatory public library:
-the Nordic experience. In: *New Library World* 117 (2016) 9/10, 546-556,
-doi:
-[*https://doi.org/10.1108/NLW-04-2016-0031*](https://doi.org/10.1108/NLW-04-2016-0031)
+the Nordic experience. In: *New Library World* 117 (2016) 9/10, 546-556.
+[https://doi.org/10.1108/NLW-04-2016-0031](https://doi.org/10.1108/NLW-04-2016-0031)
 
 Robbins, Jane (1975). *Citizen participation and public library policy*.
-Metuchen, N.J. : The Scarecrow Press, 1975
+Metuchen, N.J. : The Scarecrow Press, 1975.
 
 Roig Telo, Antoni (2016). Participating in what? And for whose benefit?.
 Notes on collective participation and creation. In: *BiD: textos
-universitaris de biblioteconomia i documentació*, 37 (2016): doi:
-[*https://doi.org/10.1344/BiD2016.37.8*](http://dx.doi.org/10.1344/BiD2016.37.8)
+universitaris de biblioteconomia i documentació*, 37 (2016).
+[https://doi.org/10.1344/BiD2016.37.8](http://dx.doi.org/10.1344/BiD2016.37.8)
 
 Schuldt, Karsten ; Mumenthaler, Rudolf (2015). Forschungsmethoden in die
 Praxisausbildung einbinden? Ansätze an der HTW Chur. In: *LIBREAS.
-Library Ideas* 11 (2015) 27,
-[*http://libreas.eu/ausgabe27/04schuldt/*](http://libreas.eu/ausgabe27/04schuldt/)
+Library Ideas* 11 (2015) 27.
+[http://libreas.eu/ausgabe27/04schuldt/](http://libreas.eu/ausgabe27/04schuldt/)
 
 Seidl, Tobias ; Vonhof, Cornelia (2016). Neue Wege der Bürgerbeteiligung
 in Bibliotheken: Erarbeitung der Stakeholder-Bedürfnisse mit der Methode
 LEGO Serious Play / Ein Praxisprojekt in der Stadtbibliothek Tübingen.
-In: *BuB* 68 (2016) 8-9, 482-487
+In: *BuB* 68 (2016) 8-9, 482-487.
 
 Sharman, Alison (2017). Using ethnographic research techniques to find
 out the story behind international student library usage in the Library
-Impact Data Project. In: *Library Management* 38 (2017) 1, 2-10, doi:
-[*https://doi.org/10.1108/LM-08-2016-0061*](https://doi.org/10.1108/LM-08-2016-0061)
+Impact Data Project. In: *Library Management* 38 (2017) 1, 2-10.
+[https://doi.org/10.1108/LM-08-2016-0061](https://doi.org/10.1108/LM-08-2016-0061)
 
 Sherman, Scott (2015). *Patience and Fortitude: Power, real estate, and
 the fight to save a public library. Brooklyn* ; London: Melville House,
-2015
+2015.
 
 Smith, Lauren (2016a). Information literacy as a tool to support
 political participation. In: *Library and Information Research* 40
-(2016) 123, 14-22,
-[*http://www.lirgjournal.org.uk/lir/ojs/index.php/lir/article/view/722/739*](http://www.lirgjournal.org.uk/lir/ojs/index.php/lir/article/view/722/739)
+(2016) 123, 14-22.
+[http://www.lirgjournal.org.uk/lir/ojs/index.php/lir/article/view/722/739](http://www.lirgjournal.org.uk/lir/ojs/index.php/lir/article/view/722/739)
 
 Smith, Lauren N. (2016b). School libraries, political information and
 information literacy provision: findings from a Scottish study*.* In:
-*Journal of Information Literacy*, 10 (2016) 2, 3-25, doi:
-[*https://doi.org/10.11645/10.2.2097*](http://dx.doi.org/10.11645/10.2.2097)
+*Journal of Information Literacy*, 10 (2016) 2, 3-25.
+[https://doi.org/10.11645/10.2.2097](http://dx.doi.org/10.11645/10.2.2097)
 
 Sommer, Frank (2014). Die Selbstbeteiligung ist der Schlüssel zum
-Erfolg. In: *BuB* 66 (2014) 7-8, 545-547
+Erfolg. In: *BuB* 66 (2014) 7-8, 545-547.
 
 Stadler, Heike (2013). Bürgerbeteiligung durch ePetitionen – Ein Thema
 für das Bibliothekswesen?. In: *LIBREAS. Library Ideas* 22 (2013)
-[*http://libreas.eu/ausgabe22/texte/05stadler.htm*](http://libreas.eu/ausgabe22/texte/05stadler.htm)
+[http://libreas.eu/ausgabe22/texte/05stadler.htm](http://libreas.eu/ausgabe22/texte/05stadler.htm)
 \[25.08.2017\]
 
 Stadler, Heike (2012a). Sich der Diskussion stellen. In: *BuB* 64 (2012)
-3, 248
+3, 248.
 
 Stadler, Heike (2012b). It's the frei&lt;tag&gt; 2012 Countdown (20):
-Fragen zum Thema Partizipation. Libreas-Weblog,
-[*https://libreas.wordpress.com/2012/07/26/freitag\_partizipation/*](https://libreas.wordpress.com/2012/07/26/freitag_partizipation/)
+Fragen zum Thema Partizipation. Libreas-Weblog.
+[https://libreas.wordpress.com/2012/07/26/freitag\_partizipation/](https://libreas.wordpress.com/2012/07/26/freitag_partizipation/)
 \[25.08.2017\]
 
 Stadler, Heike (2011a). *Öffentliche Bibliotheken im Bürgerhaushalt.*
 (KWI-Arbeitshefte; 20). Potsdam: Universitätsverlag Potsdam, 2011,
-[*https://nbn-resolving.org/urn:nbn:de:kobv:517-opus-49248*](https://nbn-resolving.org/urn:nbn:de:kobv:517-opus-49248)
+[https://nbn-resolving.org/urn:nbn:de:kobv:517-opus-49248](https://nbn-resolving.org/urn:nbn:de:kobv:517-opus-49248)
 
 Stadler, Heike (2011b). Der Bürger entscheidet mit. In: *BuB* 53 (2011)
-6, 450-453
+6, 450-453.
 
 Stadler, Heike (2011c). Mehr Chancen als Risiken. In: *BuB* 63 (2011) 3,
-196-199
+196-199.
 
 Stewart, Ken W. (2015). How to Engage Your Community in the School
-Library Program. In: *School Library Monthly* 31 (2015) 7, 16-18
+Library Program. In: *School Library Monthly* 31 (2015) 7, 16-18.
 
 Sung, Hui-Yun; Hepworth, Mark (2013). Community Engagement in Public
 Libraries: Practical Implications. In: *Advances in Librarianship* 37
-(2013), 31-47
+(2013), 31-47.
 
 Tadic, Silvana (2017). *User Generated Content in Bibliotheken, Archiven
 & Museen: Wie Nutzer zu Experten werden und ihre Inhalte mit der
-Community teilen* (Bachelorarbeit). Chur: HTW Chur, 2017
+Community teilen* (Bachelorarbeit). Chur: HTW Chur, 2017.
 
 Tanner, Philippe (2017). *Nutzerpartizipation in Allgemeinen
 Öffentlichen Bibliotheken der Schweiz* (Bachelorarbeit). Chur: HTW Chur,
-2017
+2017.
 
 Velásquez, Jennifer (2016). Lessons Learned From a New Teen Space: What
 are the results when a teen space is designed with input from teens and
 a focus on teen needs? In: *Young adult library services* 15 (2016) 1,
-31-33
+31-33.
 
 Wildemann, Britta (2017). Die Bibliothek mit den Augen der Nutzer sehen:
 Ethnografische Forschungsmethoden im praktischen Einsatz. In:
-*Bibliotheksdienst* 51 (2017) 7, 589-595,
-doi: [*https://doi.org/10.1515/bd-2017-0063*](https://doi.org/10.1515/bd-2017-0063)
+*Bibliotheksdienst* 51 (2017) 7, 589-595. [https://doi.org/10.1515/bd-2017-0063](https://doi.org/10.1515/bd-2017-0063)
 
 Zschau, Gerhard ; Jobmann, Peter (2013). *Auf dem Weg zur demokratischen
-Bibliothek* (Masterarbeit). Berlin: Freie Universität Berlin, 2013,
-[*http://demokratische-bibliothek.de/*](http://demokratische-bibliothek.de/)
+Bibliothek* (Masterarbeit). Berlin: Freie Universität Berlin, 2013.
+[http://demokratische-bibliothek.de/](http://demokratische-bibliothek.de/)
 
 
 [^1]: Wir konnten auf aktuelle Publikationen aus Deutschland (Dewosch
@@ -1660,7 +1707,7 @@ Bibliothek* (Masterarbeit). Berlin: Freie Universität Berlin, 2013,
     explizit untersagt. Da hat jemand anders die Macht, darüber zu
     bestimmen.
 
-[^3]: [*https://almpub.wordpress.com/*](https://almpub.wordpress.com/),
+[^3]: [https://almpub.wordpress.com/](https://almpub.wordpress.com/),
     ALM löst sich auf in "Archives, Libraries and Museums", wäre also
     mit dem Begriff "Gedächtnisinstitutionen" aus der deutschsprachigen
     Diskussion zu übersetzen, obwohl dieser Begriff eine Funktion
@@ -1671,7 +1718,7 @@ Bibliothek* (Masterarbeit). Berlin: Freie Universität Berlin, 2013,
     (Artikel 100, letzter Satz): "The authorities of the state shall
     create conditions that facilitate open and enlightened public
     discourse."
-    ([*https://www.stortinget.no/globalassets/pdf/english/constitutionenglish.pdf*](https://www.stortinget.no/globalassets/pdf/english/constitutionenglish.pdf))
+    ([https://www.stortinget.no/globalassets/pdf/english/constitutionenglish.pdf](https://www.stortinget.no/globalassets/pdf/english/constitutionenglish.pdf))
 
 [^5]: Im Rahmen des Projektes konnte dann für die Schweiz auch gezeigt
     werden, dass diese Vorstellung weder in den Gesetzen, Richtlinien,
@@ -1746,7 +1793,7 @@ Bibliothek* (Masterarbeit). Berlin: Freie Universität Berlin, 2013,
     connections to reading and literacy." (Veláquez 2016:32)
 
 [^17]: Jetzt als "Libraries Transforming Communities" unter
-    [*http://www.ala.org/tools/librariestransform/libraries-transforming-communities*](http://www.ala.org/tools/librariestransform/libraries-transforming-communities).
+    [http://www.ala.org/tools/librariestransform/libraries-transforming-communities](http://www.ala.org/tools/librariestransform/libraries-transforming-communities).
     \[25.08.2017\]
 
 [^18]: Eventuell ist dieses Gefühl bei einem der Autoren (Schuldt) auch
