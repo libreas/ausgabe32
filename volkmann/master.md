@@ -538,8 +538,7 @@ derartig klare Voraussicht, zusammen mit dem richtigen Spürsinn und dem
 Netzwerk für Finanzierungsquellen stellen den letzten Erfolgsfaktor dar,
 der aus dem HGLV und aus anderen Lernenden Städten herauszulesen ist.
 
-Fazit
-=====
+### Fazit
 
 Die australische Vorstadt Hume hat es durch den Aufbau eines Netzwerks
 aus unterschiedlichen Bildungsakteuren, Vereinen, Firmen, und
@@ -601,12 +600,12 @@ Herausforderungen der Lokalbevölkerung gemeinsam zu begegnen.
 
 Aring, Jürgen (2014): Integration hoch zwei.
 Bildungslandschaften und Stadtentwicklung verknüpfen. In *Forum Wohnen
-und Stadtentwicklung* (3), pp. 115--120. Available online at
+und Stadtentwicklung* (3), pp. 115--120. Online verfügbar unter: 
 <http://www.vhw.de/fileadmin/user_upload/08_publikationen/verbandszeitschrift/2000_2014/PDF_Dokumente/2014/3_2014/FWS_3_2014_Integration_hoch_zwei_-_Bildungsland___schaft.pdf>.
 
 Baumheier, Ulrike; Warsewa, Günter (2010): Lokale
 Bildungslandschaften. Stadtteilnetzwerke für Bildung und soziale
-Integration. In *sozialraum.de*. Available online at
+Integration. In *sozialraum.de*. Online verfügbar unter: 
 <http://www.sozialraum.de/lokale-bildungslandschaften.php>.
 
 Bentley, Tom (2009): Innovation and Diffusion as a
@@ -668,24 +667,24 @@ learning. London: Routledge.
 
 HGLV (n.d.): Inclusion. Global Learning Village.
 Project History. Hume Global Learning Village (HGLV). Melbourne.
-Available online at <http://www.glv.org.au/learning-center/inclusion>
+Online verfügbar unter:  <http://www.glv.org.au/learning-center/inclusion>
 .
 
 Hume City Council (\[2012\]): Community Engagement
-Framework and Planning Guide. Hume. Available online at
+Framework and Planning Guide. Hume. Online verfügbar unter: 
 <http:://www.hume.vic.gov.au/files/51cbbebe-df6c-453c-ae26-9f2800edb59f/Community_Engagement_Framework.pdf>.
 
 Hume City Council (2015): We\'re Australia\'s
-Favourite Library Service! Hume City Council. Hume. Available online at
+Favourite Library Service! Hume City Council. Hume. Online verfügbar unter: 
 <https://www.hume.vic.gov.au/Libraries_Learning/Hume_Libraries/Were_Australias_Favourite_Library_Service>.
 
 Hume Learning Community (2015): Demonstrating the
-Impact of Projects and Programs. Broadmeadows. Available online at
+Impact of Projects and Programs. Broadmeadows. Online verfügbar unter: 
 <http://pascalobservatory.org/pascalnow/blogentry/measuring-impact-community-development-programs-city-hume>.
 
 Johnson, Chris; Lomas, Cyprien (2005): Design of
 the Learning Space. Learning and Design Principles. In *EDUCAUSE Review*
-40 (4), pp. 16--28. Available online at
+40 (4), pp. 16--28. Online verfügbar unter: 
 <http://er.educause.edu/articles/2005/1/design-of-the-learning-space-learning-and-design-principles>.
 
 Kearns, Peter (2015): Learning cities on the move.
@@ -701,7 +700,7 @@ toolkit for urban innovators. 2nd ed. London: Earthscan.
 
 Lepoluoto, Pälvi (2012): In the footsteps of a
 learning organization. Finland. In *Scandinavian Library Quaterly* 45
-(1). Available online at <http://slq.nu/?article=volume-45-no-1-2012-13>.
+(1). Online verfügbar unter:  <http://slq.nu/?article=volume-45-no-1-2012-13>.
 
 Longworth, Norman (2006): Learning cities, learning
 regions, learning communities. Lifelong learning and local government.
@@ -710,11 +709,11 @@ London, New York: Routledge.
 Longworth, Norman (\[2014a\]): Changing
 Perceptions, Changing Cities, Changing Economies. A historical review of
 the development of learning cities and learning regions. RSA, City
-Growth Commission. Available online at
+Growth Commission. Online verfügbar unter: 
 <https://www.thersa.org/globalassets/pdfs/city-growth-commission/evidence/learning-cities-and-regions-historical-review.pdf>.
 
 Longworth, Norman (\[2014b\]): Learning City
-Dimensions. City Growth Commission. Available online at
+Dimensions. City Growth Commission. Online verfügbar unter: 
 <https://www.thersa.org/globalassets/pdfs/city-growth-commission/evidence/learning-city-dimensions.pdf>.
 
 Margerum, Richard D. (2002): Collaborative
@@ -728,13 +727,13 @@ London: MIT Press.
 O\'Hagan, Mathew (2014): Making a case for a
 Collective Impact approach towards raising educational achievement in
 The City of Hume. EDUC90148: Project in Educational Leadership. PASCAL
-International Observatory (601181). Available online at
+International Observatory (601181). Online verfügbar unter: 
 <http://pascalobservatory.org/sites/default/files/educ90148_project_in_educational_leadership_ohagan_601181-1_0.pdf>.
 
 Phillips, Ian; Wheeler, Leone; White, Kimbra
 (2005): Hume Global Learning Village. Learning Together Strategy
 2004/2008. HUME GLOBAL LEARNING VILLAGE EVALUATION REPORT Final. Adult
-Learning Australia (ALA). Canberra. Available online at
+Learning Australia (ALA). Canberra. Online verfügbar unter: 
 <http://www.resdac.net/communautesapprenantes/documents/1-communautes-apprenantes-de-la-comprehension-aux-enjeux/e-quelques-exemples-de-projets-de-communautes-apprenantes/hume-global-learning-village-learning-together-strategy-2004-2008.pdf>.
 
 Ramesh, M.; Howlett, M. (2017): The role of policy
@@ -744,7 +743,7 @@ policy and administration. New York: Routledge (Routledge international
 handbooks), pp. 319--334.
 
 Remplan Community (2017): Hume Community Profile.
-Unemployment Rate. Available online at
+Unemployment Rate. Online verfügbar unter: 
 <http://www.communityprofile.com.au/hume/trends/unemployment-by-year\#!trendline;i=0;b=AAgB>.
 
 Schäffter, Ortfried (2004): Auf dem Weg zum Lernen
@@ -757,7 +756,7 @@ Stang, Richard (2011): Strukturen und Leistungen
 von Lernzentren. Empirische Befunde und Perspektiven zur Entwicklung von
 kommunalen Lernzentren als innovative Institutionalformen für
 Lebenslanges Lernen. Deutsches Institut für Erwachsenenbildung -
-Leibniz-Zentrum für Lebenslanges Lernen (DIE). Available online at
+Leibniz-Zentrum für Lebenslanges Lernen (DIE). Online verfügbar unter: 
 <http://www.die-bonn.de/doks/2011-lernzentrum-01.pdf>, checked on
 12/04/2018.
 
@@ -803,13 +802,13 @@ https://doi.org/10.1002/ace.20119.
 
 Wheeler, Leone; Osborne, George (2011): Hume global
 learning village. a creative learning community. 30. Northern
-Partnerships Unit. Melbourne. Available online at
+Partnerships Unit. Melbourne. Online verfügbar unter: 
 <http://apo.org.au/system/files/27412/apo-nid27412-55616.pdf>, checked on
 12/04/2018.
 
 Wheeler, Leone; Wong, Shanti; Farrell, J.; Wong, I.
 (2013): Learning as a Driver for Change. Australian Centre of Excellence
-for Local Government. Sydney. Available online at
+for Local Government. Sydney. Online verfügbar unter: 
 <https://www.uts.edu.au/sites/default/files/ACELG_Report_Learning_as_Driver_for_Change_03062013.pdf>.
 
 [^1]: Die Lokalzeitung "The Age" unterstütze das Vorhaben zum Beispiel
