@@ -1,0 +1,29 @@
+---
+
+layout: page
+lang: "de"
+journal: "LIBREAS. Library Ideas"
+issue: "32"
+year: "2017"
+contributor: 
+- "Frank Havemann"
+title: "Erst veröffentlichen und diskutieren, dann begutachten lassen! Wie die Wissenschaft mit <i>Overlay Journals</i> ihre Kommunikation wieder zurückgewinnen kann"
+pdf: "master.pdf"
+date: 2017-12-16 20:00
+abstract: "Wenn Fachzeitschriften auf eigene Artikel-Server verzichten und
+stattdessen als zusätzliche Informationsschicht über frei zugängliche
+Fachrepositorien von Preprints gelegt werden, kann
+Wissenschaftskommunikation weitaus effektiver und kostengünstiger
+organisiert werden als mit von profitorientierten Verlagen
+herausgegebenen Journalen, egal ob diese <i>closed</i> oder <i>open access</i>
+aufweisen."
+abstractalt: "If scholarly journals do not longer host their papers but act as extra
+layers of information over subject-oriented open access repositories of
+preprints, then scholarly communication can be organised in a much more
+effective and cheaper manner than with journals of profit-oriented
+publishers, whatever access they provide to papers, closed or open."
+comments: false
+sharing: true
+footer: true
+
+---
