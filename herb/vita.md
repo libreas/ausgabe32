@@ -1,5 +1,5 @@
 ---
-**Dr. Ulrich Herb**, Soziologe und Informationswissenschaftler, tätig für die Saarländische Universitäts- und Landesbibliothek und freiberuflich als Consultant
+**Dr. Ulrich Herb**, Soziologe und Informationswissenschaftler, tätig für die Saarländische Universitäts- und Landesbibliothek und freiberuflich als Consultant.
 
 **Karsten Schuldt**, Wissenschaftlicher Mitarbeiter Schweizerisches Institut für Informationswissenschaft, HTW Chur. Redakteur LIBREAS. Library Ideas.
 
