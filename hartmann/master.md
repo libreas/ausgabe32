@@ -232,7 +232,7 @@ klar für Open Access positionieren und engagieren, könnten ebenso wie in
 Baden-Württemberg den politischen Handlungsspielraum für Open
 Access-Vorgaben nutzen. In Berlin etwa verabschiedeten Ende 2015 Senat
 und Abgeordnetenhaus eine landeseigene Open Access-Strategie mit
-umfangreichem Maßnahmenpaket.[^18] Ein Jahr zuvor legte präsentiere die
+umfangreichem Maßnahmenpaket.[^18] Ein Jahr zuvor präsentiere die
 Landesregierung in Kiel die "Strategie 2020 der Landesregierung
 Schleswig-Holstein für Open Access".[^19]
 
