@@ -398,7 +398,7 @@ zu begründen.[^38] Anlässlich des Normenkontrollverfahrens appelliert am
 baden-württembergische Landesregierung und die Landtagsabgeordneten, die
 Zweitveröffentlichungsregelung im Landeshochschulgesetz ersatzlos zu
 streichen."[^39] Beim Bundesverfassungsgericht siegesgewiss kommentiert
-der Vorsitzende des Verleger-Ausschusses des Börsenverein, Matthias
+der Vorsitzende des Verleger-Ausschusses im Börsenverein, Matthias
 Ulmer: \"Die verantwortlichen Politikerinnen und Politiker in
 Baden-Württemberg sollten die Entscheidung des VGH zum Anlass nehmen,
 ihre bei der Verabschiedung des Landeshochschulgesetzes getroffene
