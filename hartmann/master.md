@@ -257,7 +257,7 @@ ihr wissenschaftlich tätiges Personal zu einer Zweitveröffentlichung
 verpflichten, ohne dass dies gegen deren grundgesetzlich verbürgte
 Wissenschaftsfreiheit verstößt?
 
-An außeruniversitären Einrichtungen dürften eher entsprechende Vorgaben
+An außeruniversitären Einrichtungen dürften entsprechende Vorgaben eher 
 in den Arbeitsverträgen des wissenschaftlichen Personals verankert sein.
 Deswegen werden diese Forschungseinrichtungen den Konstanzer Fall mit
 hohem Interesse verfolgen.
