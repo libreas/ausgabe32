@@ -301,7 +301,7 @@ sie (noch) keine rechtlich bindenden Veröffentlichungspflichten
 etabliert. Die DFG gab im Jahr 2014 ein Rechtsgutachten[^28] in Auftrag,
 das die nationale Rechtslage abgestuft einschätzt: Open
 Access-Publikationspflichten seien demzufolge nur dann möglich, wenn sie
-an die Vergabe zusätzlicher Gelder gekoppelt ist. Der Gutachter knüpft
+an die Vergabe zusätzlicher Gelder gekoppelt sind. Der Gutachter knüpft
 die Zulässigkeit von (Open Access-)Publikationspflichten zudem an
 vielseitige Bedingungen. Nach dieser Rechtsauffassung könnten die DFG
 und BMBF in einem gewissen Umfang fördervertraglich Open
