@@ -477,7 +477,7 @@ dienen.[^49]
 
 ### Am Rande III: Welche Bedeutung für digitale Forschungsdaten hat der Fall?
 
-Die Auseinandersetzung an der Universität Konstanz jetzt könnte man
+Die Auseinandersetzung an der Universität Konstanz jetzt könnte man wie folgt
 zusammenfassen: Haben allein die Wissenschaftler/innen die Rechte und
 damit Publikations- und Verwertungsbefugnisse an ihren Fachaufsätzen
 oder (auch) deren Universität beziehungsweise Wissenschaftseinrichtung?
