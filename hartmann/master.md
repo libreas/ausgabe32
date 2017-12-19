@@ -484,7 +484,7 @@ oder (auch) deren Universität beziehungsweise Wissenschaftseinrichtung?
 Diese Frage stellt sich vergleichbar auch bei (digitalen)
 Forschungsdaten.
 
-Juristisch interessant: An den Forschungsdaten, die im Rahmen der
+Juristisch interessant: An den Forschungsergebnissen, die im Rahmen der
 finanzierten Forschungstätigkeit entstehen, lässt sich schon seit langem
 manche Wissenschaftseinrichtung Nutzungen beziehungsweise Rechte im
 Arbeits- beziehungsweise Dienstrecht einräumen. Nicht weiter beleuchtet
