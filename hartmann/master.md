@@ -232,7 +232,7 @@ klar für Open Access positionieren und engagieren, könnten ebenso wie in
 Baden-Württemberg den politischen Handlungsspielraum für Open
 Access-Vorgaben nutzen. In Berlin etwa verabschiedeten Ende 2015 Senat
 und Abgeordnetenhaus eine landeseigene Open Access-Strategie mit
-umfangreichem Maßnahmenpaket.[^18] Ein Jahr zuvor legte präsentiere die
+umfangreichem Maßnahmenpaket.[^18] Ein Jahr zuvor präsentiere die
 Landesregierung in Kiel die "Strategie 2020 der Landesregierung
 Schleswig-Holstein für Open Access".[^19]
 
@@ -257,7 +257,7 @@ ihr wissenschaftlich tätiges Personal zu einer Zweitveröffentlichung
 verpflichten, ohne dass dies gegen deren grundgesetzlich verbürgte
 Wissenschaftsfreiheit verstößt?
 
-An außeruniversitären Einrichtungen dürften eher entsprechende Vorgaben
+An außeruniversitären Einrichtungen dürften entsprechende Vorgaben eher 
 in den Arbeitsverträgen des wissenschaftlichen Personals verankert sein.
 Deswegen werden diese Forschungseinrichtungen den Konstanzer Fall mit
 hohem Interesse verfolgen.
@@ -301,7 +301,7 @@ sie (noch) keine rechtlich bindenden Veröffentlichungspflichten
 etabliert. Die DFG gab im Jahr 2014 ein Rechtsgutachten[^28] in Auftrag,
 das die nationale Rechtslage abgestuft einschätzt: Open
 Access-Publikationspflichten seien demzufolge nur dann möglich, wenn sie
-an die Vergabe zusätzlicher Gelder gekoppelt ist. Der Gutachter knüpft
+an die Vergabe zusätzlicher Gelder gekoppelt sind. Der Gutachter knüpft
 die Zulässigkeit von (Open Access-)Publikationspflichten zudem an
 vielseitige Bedingungen. Nach dieser Rechtsauffassung könnten die DFG
 und BMBF in einem gewissen Umfang fördervertraglich Open
