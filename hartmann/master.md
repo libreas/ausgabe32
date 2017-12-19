@@ -398,7 +398,7 @@ zu begründen.[^38] Anlässlich des Normenkontrollverfahrens appelliert am
 baden-württembergische Landesregierung und die Landtagsabgeordneten, die
 Zweitveröffentlichungsregelung im Landeshochschulgesetz ersatzlos zu
 streichen."[^39] Beim Bundesverfassungsgericht siegesgewiss kommentiert
-der Vorsitzende des Verleger-Ausschusses des Börsenverein, Matthias
+der Vorsitzende des Verleger-Ausschusses im Börsenverein, Matthias
 Ulmer: \"Die verantwortlichen Politikerinnen und Politiker in
 Baden-Württemberg sollten die Entscheidung des VGH zum Anlass nehmen,
 ihre bei der Verabschiedung des Landeshochschulgesetzes getroffene
@@ -477,14 +477,14 @@ dienen.[^49]
 
 ### Am Rande III: Welche Bedeutung für digitale Forschungsdaten hat der Fall?
 
-Die Auseinandersetzung an der Universität Konstanz jetzt könnte man
+Die Auseinandersetzung an der Universität Konstanz jetzt könnte man wie folgt
 zusammenfassen: Haben allein die Wissenschaftler/innen die Rechte und
 damit Publikations- und Verwertungsbefugnisse an ihren Fachaufsätzen
 oder (auch) deren Universität beziehungsweise Wissenschaftseinrichtung?
 Diese Frage stellt sich vergleichbar auch bei (digitalen)
 Forschungsdaten.
 
-Juristisch interessant: An den Forschungsdaten, die im Rahmen der
+Juristisch interessant: An den Forschungsergebnissen, die im Rahmen der
 finanzierten Forschungstätigkeit entstehen, lässt sich schon seit langem
 manche Wissenschaftseinrichtung Nutzungen beziehungsweise Rechte im
 Arbeits- beziehungsweise Dienstrecht einräumen. Nicht weiter beleuchtet
