@@ -1,5 +1,5 @@
 ---
-**Christian Gutknecht** arbeitet beim Schweizer Nationalfonds und schreibt im Gruppenblog <http://www.wisspub.net>. (ORCID: <http://orcid.org/0000-0002-7265-1692>)
+**Christian Gutknecht** arbeitet beim Schweizer Nationalfonds und schreibt im Gruppenblog <http://www.wisspub.net>. (ORCID: <http://orcid.org/0000-0002-7265-1692>). Die im Interview geäusserten Aussagen geben seine persönliche Sicht wider und sind nicht mit dem SNF abgestimmt.
 
 **Karsten Schuldt**, Wissenschaftlicher Mitarbeiter Schweizerisches Institut für Informationswissenschaft, HTW Chur. Redakteur LIBREAS. Library Ideas. 
 
